@@ -8,8 +8,8 @@ h1 {
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	
+	background-color: #80dfff;
 
 }
 
@@ -29,7 +29,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color:#ffccff;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -49,7 +49,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #e066ff;
 }
 
 #beef {
@@ -63,7 +63,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: #8c66ff;
 }
 
 #sushi {
@@ -104,7 +104,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  background-color: #000000 ;
   color: #FFFFFF;
 }
 
